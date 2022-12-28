@@ -1,2 +1,2 @@
 # Namaste-React
-This repository contains all the assignments of namaste react course.
+This repository contains all the assignments of namaste react course!!
