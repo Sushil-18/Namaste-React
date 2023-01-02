@@ -5,3 +5,21 @@ Difference between library and framework?
 library is focused to do single task while framework is full flagged for development of applications.
 Libraries provide developers with predefined functions and classes to make their work easier and boost the development process.
 Framework, on the other hand, is like the foundation upon which developers build applications for specific platforms. 
+
+What is CDN? Why do we use it?
+CDN stands for content delivery network which is used to cache the data at the edge locations so the latency can be reduced and the speed can be increased.
+
+Why is React known as React?
+React is named as react because of it's ability to react to changes in data.
+
+What is crossorigin in script tag?
+crossorigin means the date stored in multiple edge locations so in case of one edge location failure there won't be any issue for delivery.
+
+What is diference between React and ReactDOM
+React library is responsible for creating viewes and ReactDOM is responsible to actually render UI in the browser.
+
+What is difference between react.development.js and react.production.js files via CDN?
+In react.development.js we can do HMR and used for development reasons while the react.production.js is minified vedrison of the development code so the performance of actual application can be improved/
+
+What is async and defer? -
+Async - means execute code when it is downloaded and do not block DOM construction during downloading process. Defer - means execute code after it's downloaded and browser finished DOM construction and rendering process.
