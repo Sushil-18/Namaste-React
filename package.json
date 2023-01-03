@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaster react course assignments!!",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushil-18/Namaste-React.git"
+  },
+  "author": "Sushilkumar Waghmare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sushil-18/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Sushil-18/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
